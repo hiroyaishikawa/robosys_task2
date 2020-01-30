@@ -5,7 +5,7 @@ ROSで利用するための簡単なパブリッシャとサブスクライバ�
 パブリッシャにて入力された数値をサブスクライバで表示、その総和を計算し、出力します。
 
 ## 動作デモ(Youtube)
-リンク準備中
+https://www.youtube.com/watch?v=ZH2RezGNH0Y&feature=youtu.be
 
 ## 動作環境
 Ubuntu 18.04.3 LTS
