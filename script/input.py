@@ -1,3 +1,9 @@
+#[input.py]
+#
+#Copyright (c) 2020 hiroya ishikawa
+#
+#This software is released under the MIT License.
+#http://opensource.org/licenses/mit-license.php
 #!/usr/bin/env python
 import rospy
 import sys
