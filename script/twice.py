@@ -1,4 +1,11 @@
 #!/usr/bin/env python
+#[twice.py]
+#
+#Copyright (c) 2020 hiroya ishikawa
+#
+#This software is released under the MIT License.
+#http://opensource.org/licenses/mit-license.php
+
 import rospy
 from std_msgs.msg import Int32
 
