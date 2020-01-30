@@ -1,10 +1,11 @@
+#!/usr/bin/env python
 #[input.py]
 #
 #Copyright (c) 2020 hiroya ishikawa
 #
 #This software is released under the MIT License.
 #http://opensource.org/licenses/mit-license.php
-#!/usr/bin/env python
+
 import rospy
 import sys
 from std_msgs.msg import Int32
